@@ -63,3 +63,5 @@ l)TI                            32 (space) push to stack
 
 !I!I!I!I!I!I!I!I!I!I!I!I!       print and pop the stack 13 times (!dlroW olleH)
 ```
+## Other
+(Esolang wiki page)[esolangs.org/wiki/Vertical]
